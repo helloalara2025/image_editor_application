@@ -18,6 +18,7 @@ A desktop image editor built in Java with Swing, designed around MVC architectur
 - **Immutability** — image operations return new `IImage` copies via `editedImage()`, preserving the original
 - **Multi-format support** — Reader/Writer factories abstract format differences so the rest of the app is format-agnostic
 
+![IME Screenshot](ime.png)
 
 ## Architecture
 
